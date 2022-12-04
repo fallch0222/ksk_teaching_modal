@@ -121,7 +121,7 @@ namespace DiscordBot
                             $"• 상세설명 : {currentApplication.detail}";
 
             
-           
+           //a
             
             JObject json = new JObject();
             json.Add("UserName",currentApplication.UserName);
