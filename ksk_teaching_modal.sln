@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ksk_teaching_modal", "ksk_teaching_modal\ksk_teaching_modal.csproj", "{F92E36A8-3875-4C0D-8DC6-145E5E9DF693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92E36A8-3875-4C0D-8DC6-145E5E9DF693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92E36A8-3875-4C0D-8DC6-145E5E9DF693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92E36A8-3875-4C0D-8DC6-145E5E9DF693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92E36A8-3875-4C0D-8DC6-145E5E9DF693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
